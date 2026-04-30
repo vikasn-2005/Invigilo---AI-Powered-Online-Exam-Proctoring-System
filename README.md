@@ -29,6 +29,7 @@ Invigilo is a full-stack smart exam proctoring system designed to conduct secure
 
 ## 📂 Project Structure
 invigilo
+
 │
 
 ├── frontend/ # Flutter mobile application
