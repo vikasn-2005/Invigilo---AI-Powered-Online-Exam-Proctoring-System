@@ -51,14 +51,19 @@ invigilo
 cd backend
 npm install
 npm start
+```
 
 ### 🔹 Frontend Setup
+```bash
 cd frontend
 flutter pub get
 flutter run
+```
+
 
 ---
 
-##👨‍💻 Author
+
+## 👨‍💻 Author
 
 Vikas Nishad
