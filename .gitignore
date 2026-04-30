@@ -1,0 +1,21 @@
+# Node
+node_modules/
+backend/node_modules/
+
+# Environment
+.env
+
+# Flutter
+frontend/invigilo_app/build/
+frontend/invigilo_app/android/app/build/
+.build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# System
+.DS_Store
+Thumbs.db
+
+#APK
+*.apk 
